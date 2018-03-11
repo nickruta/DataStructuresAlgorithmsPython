@@ -6,7 +6,6 @@ class Stack:
 
 	Big-O Complexity:
 		The push() and pop() operations are both constant time 𝑂(1)
-
 	"""
 	def __init__(self):
 		"""Creates a new stack that is empty."""
