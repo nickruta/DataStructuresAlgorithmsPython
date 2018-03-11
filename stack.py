@@ -1,4 +1,5 @@
-# PEP 8 Style Guide for Python Code - https://www.python.org/dev/peps/pep-0008/
+""" Using the PEP 8 Style Guide for Python Code:
+https://www.python.org/dev/peps/pep-0008/ """
 
 class Stack:
 	"""A stack is structured as an ordered collection of items where items are 
