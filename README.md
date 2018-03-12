@@ -12,6 +12,8 @@ Data Structures and Algorithms implemented in Python.
 
 * **[deque.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/deque.py)** - Implementation of the "Deque" data structure.
 
+* **[linked_list_ordered_singly.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/linked_list_ordered_singly.py)** - Implementation of a ordered singly "Linked List" data structure.
+
 ### Algorithms:
 
 ### Examples:
