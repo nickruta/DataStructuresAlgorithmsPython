@@ -10,13 +10,12 @@ def parChecker(symbolString):
     balanced.
 
     Note: the boolean variable balanced is initialized to True as there is no
-    reason to assume otherwise at the start. If the current symbol is (, then
-    it is pushed on the stack (lines 9–10). Note also in line 15 that pop
-    simply removes a symbol from the stack. The returned value is not used
-    since we know it must be an opening symbol seen earlier. At the end
-    (lines 19–22), as long as the expression is balanced and the stack has
-    been completely cleaned off, the string represents a correctly balanced
-    sequence of parentheses.
+    reason to assume otherwise at the start. If the current symbol is, then
+    it is pushed on the stack. Note also in line 38 that pop simply removes
+    a symbol from the stack. The returned value is not used since we know it
+    must be an opening symbol seen earlier. At the end, as long as the
+    expression is balanced and the stack has been completely cleaned off,
+    the string represents a correctly balanced sequence of parentheses.
 
     Args:
         symbolString (str) : The string of parenthesis to be parsed.
