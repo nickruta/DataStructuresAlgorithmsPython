@@ -52,12 +52,18 @@ class Deque:
     def remove_front(self):
         """removes the front item from the deque. It needs no parameters and
         returns the item. The deque is modified.
+
+        Returns:
+            item (unknown type) : the front item
         """
         return self.items.pop()
 
     def remove_rear(self):
         """removes the rear item from the deque. It needs no parameters and
         returns the item. The deque is modified.
+
+        Returns:
+            item (unknown type) : the front item
         """
         return self.items.pop(0)
 
@@ -65,7 +71,7 @@ class Deque:
         """returns the number of items in the deque. It needs no parameters
         and returns an integer.
 
-        Args:
+        Returns:
             integer (int) : the number of items in the deque
             queue.
         """
