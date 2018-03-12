@@ -8,6 +8,8 @@ Data Structures and Algorithms implemented in Python.
 
 * **[stack.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/stack.py)** - Implementation of the "Stack" data structure.
 
+* **[queue.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/queue.py)** - Implementation of the "Queue" data structure.
+
 ### Algorithms:
 
 ### Examples:
