@@ -1,6 +1,6 @@
-# Data Structures & Algorithms
+# Data Structures & Algorithms in Python
 
-Data Structures and Algorithms implemented in Python. Implementations and study notes are based on **[Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)**
+Implementations and study notes are based on **[Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)**
 
 
 ---
@@ -19,7 +19,7 @@ Data Structures and Algorithms implemented in Python. Implementations and study 
 
 * **[binary_search.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_search.py)** - Implementation of the "Binary Search" algorithm.
 
-* **[binary_search_resursive.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_search_recursive.py)** - Implementation of the recursive version of the "Binary Search" algorithm.
+* **[binary_search_recursive.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_search_recursive.py)** - Implementation of the recursive version of the "Binary Search" algorithm.
 
 ### Examples:
 
