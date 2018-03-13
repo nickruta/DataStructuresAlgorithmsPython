@@ -4,7 +4,7 @@ https://www.python.org/dev/peps/pep-0008/ and python linters """
 
 def bubble_sort(a_list):
     """The bubble sort makes multiple passes through a list. It compares
-    adjacent items and ex- changes those that are out of order. Each pass
+    adjacent items and exchanges those that are out of order. Each pass
     through the list places the next largest value in its proper place. In
     essence, each item “bubbles” up to the location where it belongs.
 

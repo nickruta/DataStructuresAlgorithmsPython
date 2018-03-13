@@ -25,6 +25,9 @@ Implementations and study notes are based on **[Problem Solving with Algorithms 
 
 * **[bubble_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/bubble_sort.py)** - Implementation of the "Bubble Sort" algorithm.
 
+* **[short_bubble_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/short_bubble_sort.py)** - Implementation of the "Short Bubble Sort" algorithm. It modifies a standard bubble sort by stopping short when no exchanges are left to be made.
+
+
 ### Examples:
 
 * **[stack_paren_checker.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/stack_paren_checker.py)** - Function that assumes that a Stack class is available and returns a boolean result as to whether the string of parentheses is balanced.
