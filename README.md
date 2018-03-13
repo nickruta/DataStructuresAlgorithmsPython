@@ -15,6 +15,8 @@ Implementations and study notes are based on **[Problem Solving with Algorithms 
 
 * **[linked_list_ordered_singly.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/linked_list_ordered_singly.py)** - Implementation of a ordered singly "Linked List" data structure.
 
+* **[hash_table.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/hash_table.py)** - Implementation of a "Hash Table" data structure that uses a simple "remainder method" (key % table_size).
+
 ### Algorithms:
 
 * **[binary_search.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_search.py)** - Implementation of the "Binary Search" algorithm.
