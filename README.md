@@ -27,6 +27,8 @@ Implementations and study notes are based on **[Problem Solving with Algorithms 
 
 * **[short_bubble_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/short_bubble_sort.py)** - Implementation of the "Short Bubble Sort" algorithm. It modifies a standard bubble sort by stopping short when no exchanges are left to be made.
 
+* **[selection_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/selection_sort.py)** - Implementation of the "Selection Sort" algorithm.
+
 
 ### Examples:
 
