@@ -31,10 +31,10 @@ class HashTable:
         As before, we will have a result for both a successful and an
         unsuccessful search. For a suc- cessful search using open addressing
         with linear probing, the average number of comparisons is approximately
-        1  1 + 1   and an unsuccessful search gives 1  1 +   1  2  If we are
-        using 2 1−𝜆 2 1−𝜆 chaining, the average number of comparisons is 1 + 𝜆
-        for the successful case, and simply 𝜆 2 comparisons if the search is
-        unsuccessful.
+        1/2(1 + 1/1-𝜆) and an unsuccessful search gives 1/2(1+(1/1-𝜆)squared)
+        If we are using chaining, the average number of comparisons
+        is 1 + 𝜆/2 for the successful case, and simply 𝜆 comparisons if the
+        search is unsuccessful.
 
     """
     def __init__(self):
