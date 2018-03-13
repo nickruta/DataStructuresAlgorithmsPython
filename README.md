@@ -23,6 +23,8 @@ Implementations and study notes are based on **[Problem Solving with Algorithms 
 
 * **[binary_search_recursive.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_search_recursive.py)** - Implementation of the recursive version of the "Binary Search" algorithm.
 
+* **[bubble_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/bubble_sort.py)** - Implementation of the "Bubble Sort" algorithm.
+
 ### Examples:
 
 * **[stack_paren_checker.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/stack_paren_checker.py)** - Function that assumes that a Stack class is available and returns a boolean result as to whether the string of parentheses is balanced.
