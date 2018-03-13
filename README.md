@@ -29,6 +29,14 @@ Implementations and study notes are based on **[Problem Solving with Algorithms 
 
 * **[selection_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/selection_sort.py)** - Implementation of the "Selection Sort" algorithm.
 
+* **[insertion_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/insertion_sort.py)** - Implementation of the "Insertion Sort" algorithm.
+
+* **[shell_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/shell_sort.py)** - Implementation of the "Shell Sort" algorithm.
+
+* **[merge_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/merge_sort.py)** - Implementation of the "Merge Sort" algorithm.
+
+* **[quick_sort.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/quick_sort.py)** - Implementation of the "Quick Sort" algorithm.
+
 
 ### Examples:
 
