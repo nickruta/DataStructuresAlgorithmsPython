@@ -17,6 +17,9 @@ Implementations and study notes are based on **[Problem Solving with Algorithms 
 
 * **[hash_table.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/hash_table.py)** - Implementation of a "Hash Table" data structure that uses a simple "remainder method" (key % table_size).
 
+* **[binary_tree.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_tree.py)** - Implementation of a "Binary Tree" data structure. It includes preorder, postorder and inorder traversals.
+
+
 ### Algorithms:
 
 * **[binary_search.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_search.py)** - Implementation of the "Binary Search" algorithm.
