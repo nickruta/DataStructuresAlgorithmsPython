@@ -19,6 +19,8 @@ Implementations and study notes are based on **[Problem Solving with Algorithms 
 
 * **[binary_tree.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_tree.py)** - Implementation of a "Binary Tree" data structure. It includes preorder, postorder and inorder traversals.
 
+* **[binary_search_tree.py](https://github.com/nickruta/DataStructuresAlgorithmsPython/blob/master/binary_search_tree.py)** - Implementation of a "Binary Search Tree" data structure. It highlights how to create a python "Class" that implements a container object, such as a list or dictionary.
+
 
 ### Algorithms:
 
